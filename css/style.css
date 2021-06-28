@@ -1,0 +1,49 @@
+/* Header part start */
+
+header{
+
+}
+.container{
+    width: 90%;
+    overflow: hidden;
+    margin: 0 auto;
+    border-bottom: 1px solid antiquewhite;
+}
+
+.logo{
+    padding-top: 5px;
+    float: left;
+    width: 20%;
+}
+.logo a{}
+.logo a img{
+    
+}
+
+.menu{
+    width: 40%;
+    float: right;
+}
+.menu ul{
+    list-style: none;
+    float: right;
+}
+.menu ul li{
+    float: left;
+}
+.menu ul li a{
+    color: #3C4F67;
+    text-decoration: none;
+    margin: 0 20px;
+    display: inline-block;
+}
+
+.menu ul li:last-child a{
+    margin-right: 0;
+}
+
+.menu ul li a:hover{
+    color: blue;
+}
+
+/* Header Ends  */
